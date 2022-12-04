@@ -1,0 +1,14 @@
+baseURL = ''
+languageCode = 'ja'
+title = '農工大 IEEE SB 10周年記念イベント'
+theme = "beautifulhugo"
+
+[Params]
+socialShare = true
+
+[Author]
+email = "tuatieeesb@gmail.com"
+twitter = "@TIeeesb"
+
+[markup.goldmark.renderer]
+unsafe = true
