@@ -2,6 +2,7 @@ baseURL = ''
 languageCode = 'ja'
 title = '農工大 IEEE SB 10周年記念イベント'
 theme = "beautifulhugo"
+enableGitInfo = true
 
 [Params]
 socialShare = true
