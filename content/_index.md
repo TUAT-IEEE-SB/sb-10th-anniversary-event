@@ -16,6 +16,7 @@ https://forms.gle/R6z65e3zJHc1yahz8
 
 ## 場所
 機械振興会館（東京都港区芝公園3丁目）
+部屋：6-65 会議室
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.701628342788!2d139.74308911596233!3d35.65972218019939!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188b962f6eb565%3A0x684b0d455a2c999b!2z5qmf5qKw5oyv6IiI5Lya6aSo!5e0!3m2!1sja!2sjp!4v1670084769344!5m2!1sja!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
